@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-05-31,ORD-20260531-001,SUP-06789,Aramex Middle East,Automotive Parts,Automotive,Middle East,2,4,2,delayed,742,0,none,Normal,Driver strike,0.2,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-002,SUP-04567,FedEx Asia Pacific,Chemical Compounds,Chemical,Asia Pacific,6,6,0,delivered,413,0,none,Normal,Normal operations,0.0,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-003,SUP-03321,Blue Dart India,Raw Materials Steel,Industrial,South Asia,4,7,3,delayed,2941,210,minor_damage,Normal,Port congestion at major hub,0.6,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-004,SUP-03321,Blue Dart India,Textile Materials,Fashion,South Asia,7,7,0,delivered,1379,0,none,Normal,Normal operations,0.0,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-005,SUP-22222,Maersk Shipping,Electronic Components,Electronics,Europe,3,5,2,delayed,425,0,none,Fog Alert,Vehicle breakdown,0.2,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-006,SUP-11111,UPS North America,Raw Materials Steel,Industrial,North America,6,10,4,critical_delay,1444,0,none,Blizzard,Warehouse fire,0.4,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-007,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,6,6,0,delivered,282,0,none,Normal,Normal operations,0.0,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-008,SUP-11111,UPS North America,Pharmaceutical Drugs,Healthcare,North America,6,12,6,failed,432,56,minor_damage,Hurricane Warning,Fuel shortage,0.9,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-009,SUP-22222,Maersk Shipping,Raw Materials Steel,Industrial,Europe,2,5,3,critical_delay,2678,0,none,Fog Alert,Normal operations,0.3,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-010,SUP-06789,Aramex Middle East,Electronic Components,Electronics,Middle East,5,9,4,critical_delay,410,54,minor_damage,Extreme Heat,Port congestion at major hub,0.7,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-011,SUP-04567,FedEx Asia Pacific,Pharmaceutical Drugs,Healthcare,Asia Pacific,2,6,4,critical_delay,158,0,none,Heavy Rain,Fuel shortage,0.4,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-012,SUP-03321,Blue Dart India,Food Products,FMCG,South Asia,5,9,4,critical_delay,1259,0,none,Normal,System outage at logistics provider,0.4,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-013,SUP-04567,FedEx Asia Pacific,Automotive Parts,Automotive,Asia Pacific,7,10,3,critical_delay,893,0,none,Normal,System outage at logistics provider,0.3,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-014,SUP-11111,UPS North America,Food Products,FMCG,North America,3,7,4,delayed,1114,0,none,Normal,Vehicle breakdown,0.4,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-015,SUP-22222,Maersk Shipping,Food Products,FMCG,Europe,3,4,1,delayed,950,0,none,Fog Alert,Driver strike,0.1,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-016,SUP-08765,DHL Express,Raw Materials Steel,Industrial,Europe,7,9,2,delayed,2943,0,none,Normal,Vehicle breakdown,0.2,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-017,SUP-08765,DHL Express,Pharmaceutical Drugs,Healthcare,Europe,3,4,1,delayed,269,0,none,Fog Alert,Vehicle breakdown,0.1,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-018,SUP-03321,Blue Dart India,Electronic Components,Electronics,South Asia,7,12,5,delayed,644,38,minor_damage,Cyclone Warning,Vehicle breakdown,0.8,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-019,SUP-08765,DHL Express,Automotive Parts,Automotive,Europe,7,7,0,delivered,576,0,none,Normal,Normal operations,0.0,2026-05-31T14:01:26.989469
+2026-05-31,ORD-20260531-020,SUP-04567,FedEx Asia Pacific,Raw Materials Steel,Industrial,Asia Pacific,5,7,2,delayed,1932,0,none,Normal,Port congestion at major hub,0.2,2026-05-31T14:01:26.989469

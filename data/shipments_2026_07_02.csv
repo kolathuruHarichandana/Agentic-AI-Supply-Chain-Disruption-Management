@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-07-02,ORD-20260702-001,SUP-22222,Maersk Shipping,Raw Materials Steel,Industrial,Europe,3,6,3,delayed,2589,0,none,Normal,System outage at logistics provider,0.3,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-002,SUP-10234,Tata Logistics,Electronic Components,Electronics,South Asia,5,7,2,delayed,519,0,none,Normal,Customs clearance delay,0.2,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-003,SUP-22222,Maersk Shipping,Chemical Compounds,Chemical,Europe,3,7,4,delayed,878,102,minor_damage,Fog Alert,System outage at logistics provider,0.7,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-004,SUP-03321,Blue Dart India,Electronic Components,Electronics,South Asia,6,10,4,critical_delay,378,0,none,Heavy Monsoon,Vehicle breakdown,0.4,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-005,SUP-11111,UPS North America,Raw Materials Steel,Industrial,North America,5,5,0,delivered,2221,0,none,Normal,Normal operations,0.0,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-006,SUP-03321,Blue Dart India,Raw Materials Steel,Industrial,South Asia,4,5,1,delayed,1560,0,none,Heavy Monsoon,Normal operations,0.1,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-007,SUP-11111,UPS North America,Pharmaceutical Drugs,Healthcare,North America,3,5,2,delayed,433,0,none,Normal,Warehouse fire,0.2,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-008,SUP-08765,DHL Express,Textile Materials,Fashion,Europe,4,7,3,delayed,2201,0,none,Normal,Port congestion at major hub,0.3,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-009,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,6,10,4,critical_delay,2129,167,minor_damage,Normal,Road blockage due to accident,0.7,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-010,SUP-22222,Maersk Shipping,Raw Materials Steel,Industrial,Europe,6,10,4,delayed,2082,0,none,Normal,Driver strike,0.4,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-011,SUP-03321,Blue Dart India,Automotive Parts,Automotive,South Asia,3,7,4,critical_delay,1015,0,none,Cyclone Warning,Normal operations,0.4,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-012,SUP-04567,FedEx Asia Pacific,Textile Materials,Fashion,Asia Pacific,3,9,6,critical_delay,1027,0,none,Normal,Driver strike,0.6,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-013,SUP-22222,Maersk Shipping,Raw Materials Steel,Industrial,Europe,5,7,2,delayed,2174,0,none,Normal,Port congestion at major hub,0.2,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-014,SUP-10234,Tata Logistics,Chemical Compounds,Chemical,South Asia,5,10,5,delayed,821,88,minor_damage,Normal,Vehicle breakdown,0.8,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-015,SUP-04567,FedEx Asia Pacific,Pharmaceutical Drugs,Healthcare,Asia Pacific,4,4,0,delivered,379,0,none,Normal,Normal operations,0.0,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-016,SUP-08765,DHL Express,Chemical Compounds,Chemical,Europe,7,11,4,delayed,420,0,none,Normal,Road blockage due to accident,0.4,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-017,SUP-03321,Blue Dart India,Raw Materials Steel,Industrial,South Asia,5,5,0,delivered,2722,0,none,Normal,Normal operations,0.0,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-018,SUP-08765,DHL Express,Chemical Compounds,Chemical,Europe,6,11,5,delayed,468,0,none,Snow Storm,System outage at logistics provider,0.5,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-019,SUP-03321,Blue Dart India,Automotive Parts,Automotive,South Asia,7,7,0,delivered,640,0,none,Normal,Normal operations,0.0,2026-07-02T18:47:22.923520
+2026-07-02,ORD-20260702-020,SUP-08765,DHL Express,Electronic Components,Electronics,Europe,2,2,0,delivered,406,0,none,Normal,Normal operations,0.0,2026-07-02T18:47:22.923520

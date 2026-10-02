@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-06-27,ORD-20260627-001,SUP-08765,DHL Express,Electronic Components,Electronics,Europe,3,8,5,critical_delay,511,29,minor_damage,Normal,Driver strike,0.8,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-002,SUP-10234,Tata Logistics,Electronic Components,Electronics,South Asia,7,10,3,delayed,503,0,none,Cyclone Warning,Normal operations,0.3,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-003,SUP-22222,Maersk Shipping,Chemical Compounds,Chemical,Europe,5,9,4,critical_delay,803,0,none,Snow Storm,Normal operations,0.4,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-004,SUP-06789,Aramex Middle East,Chemical Compounds,Chemical,Middle East,4,9,5,delayed,498,0,none,Normal,Warehouse fire,0.5,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-005,SUP-08765,DHL Express,Food Products,FMCG,Europe,6,13,7,critical_delay,633,36,minor_damage,Snow Storm,Fuel shortage,1.0,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-006,SUP-22222,Maersk Shipping,Textile Materials,Fashion,Europe,5,9,4,delayed,1972,140,minor_damage,Normal,Vehicle breakdown,0.7,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-007,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,3,9,6,critical_delay,1801,1801,total_loss,Normal,Driver strike,0.9,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-008,SUP-04567,FedEx Asia Pacific,Pharmaceutical Drugs,Healthcare,Asia Pacific,2,2,0,delivered,361,0,none,Normal,Normal operations,0.0,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-009,SUP-11111,UPS North America,Textile Materials,Fashion,North America,5,9,4,delayed,2000,146,minor_damage,Blizzard,Port congestion at major hub,0.7,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-010,SUP-06789,Aramex Middle East,Electronic Components,Electronics,Middle East,3,7,4,critical_delay,641,0,none,Extreme Heat,Normal operations,0.4,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-011,SUP-06789,Aramex Middle East,Textile Materials,Fashion,Middle East,6,12,6,critical_delay,1292,1292,total_loss,Normal,Fuel shortage,0.9,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-012,SUP-11111,UPS North America,Textile Materials,Fashion,North America,2,5,3,delayed,1612,195,minor_damage,Blizzard,System outage at logistics provider,0.6,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-013,SUP-06789,Aramex Middle East,Electronic Components,Electronics,Middle East,2,8,6,failed,599,0,none,Normal,Road blockage due to accident,0.6,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-014,SUP-10234,Tata Logistics,Automotive Parts,Automotive,South Asia,4,8,4,critical_delay,907,0,none,Heavy Monsoon,Normal operations,0.4,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-015,SUP-11111,UPS North America,Chemical Compounds,Chemical,North America,6,6,0,delivered,729,0,none,Normal,Normal operations,0.0,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-016,SUP-08765,DHL Express,Textile Materials,Fashion,Europe,7,14,7,failed,1828,837,major_damage,Snow Storm,Road blockage due to accident,1.0,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-017,SUP-06789,Aramex Middle East,Automotive Parts,Automotive,Middle East,4,7,3,critical_delay,882,0,none,Extreme Heat,Vehicle breakdown,0.3,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-018,SUP-06789,Aramex Middle East,Raw Materials Steel,Industrial,Middle East,7,10,3,critical_delay,1279,0,none,Extreme Heat,Normal operations,0.3,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-019,SUP-06789,Aramex Middle East,Automotive Parts,Automotive,Middle East,2,4,2,delayed,447,0,none,Sandstorm,Driver strike,0.2,2026-06-27T18:47:21.867780
+2026-06-27,ORD-20260627-020,SUP-22222,Maersk Shipping,Pharmaceutical Drugs,Healthcare,Europe,5,11,6,critical_delay,204,13,minor_damage,Normal,Fuel shortage,0.9,2026-06-27T18:47:21.871919

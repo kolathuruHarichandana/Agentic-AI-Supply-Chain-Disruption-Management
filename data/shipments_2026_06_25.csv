@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-06-25,ORD-20260625-001,SUP-03321,Blue Dart India,Textile Materials,Fashion,South Asia,7,9,2,delayed,1701,0,none,Heavy Monsoon,Road blockage due to accident,0.2,2026-06-25T16:25:03.585550
+2026-06-25,ORD-20260625-002,SUP-08765,DHL Express,Food Products,FMCG,Europe,5,10,5,critical_delay,1239,146,minor_damage,Snow Storm,Normal operations,0.8,2026-06-25T16:25:03.585550
+2026-06-25,ORD-20260625-003,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,2,5,3,delayed,341,0,none,Normal,Vehicle breakdown,0.3,2026-06-25T16:25:03.585550
+2026-06-25,ORD-20260625-004,SUP-22222,Maersk Shipping,Electronic Components,Electronics,Europe,2,7,5,critical_delay,509,0,none,Snow Storm,Normal operations,0.5,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-005,SUP-22222,Maersk Shipping,Chemical Compounds,Chemical,Europe,4,6,2,delayed,327,0,none,Normal,Road blockage due to accident,0.2,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-006,SUP-08765,DHL Express,Food Products,FMCG,Europe,5,8,3,delayed,542,0,none,Normal,Road blockage due to accident,0.3,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-007,SUP-03321,Blue Dart India,Pharmaceutical Drugs,Healthcare,South Asia,6,14,8,failed,374,374,total_loss,Cyclone Warning,Port congestion at major hub,1.0,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-008,SUP-22222,Maersk Shipping,Electronic Components,Electronics,Europe,3,5,2,delayed,406,0,none,Normal,Port congestion at major hub,0.2,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-009,SUP-08765,DHL Express,Electronic Components,Electronics,Europe,6,12,6,failed,734,0,none,Normal,Road blockage due to accident,0.6,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-010,SUP-11111,UPS North America,Electronic Components,Electronics,North America,4,8,4,delayed,478,0,none,Normal,Vehicle breakdown,0.4,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-011,SUP-11111,UPS North America,Textile Materials,Fashion,North America,5,9,4,delayed,2230,0,none,Normal,Port congestion at major hub,0.4,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-012,SUP-03321,Blue Dart India,Automotive Parts,Automotive,South Asia,5,5,0,delivered,475,0,none,Normal,Normal operations,0.0,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-013,SUP-22222,Maersk Shipping,Automotive Parts,Automotive,Europe,3,10,7,failed,898,107,minor_damage,Snow Storm,Fuel shortage,1.0,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-014,SUP-04567,FedEx Asia Pacific,Pharmaceutical Drugs,Healthcare,Asia Pacific,6,12,6,critical_delay,433,0,none,Typhoon Warning,Normal operations,0.6,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-015,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,3,7,4,delayed,178,0,none,Extreme Heat,Vehicle breakdown,0.4,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-016,SUP-22222,Maersk Shipping,Pharmaceutical Drugs,Healthcare,Europe,7,10,3,delayed,361,0,none,Normal,Port congestion at major hub,0.3,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-017,SUP-03321,Blue Dart India,Textile Materials,Fashion,South Asia,5,10,5,critical_delay,1979,143,minor_damage,Cyclone Warning,Driver strike,0.8,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-018,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,3,8,5,critical_delay,1980,109,minor_damage,Normal,Fuel shortage,0.8,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-019,SUP-04567,FedEx Asia Pacific,Chemical Compounds,Chemical,Asia Pacific,7,7,0,delivered,553,0,none,Normal,Normal operations,0.0,2026-06-25T16:25:03.586165
+2026-06-25,ORD-20260625-020,SUP-22222,Maersk Shipping,Automotive Parts,Automotive,Europe,2,8,6,failed,611,53,minor_damage,Snow Storm,Normal operations,0.9,2026-06-25T16:25:03.586165

@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-06-03,ORD-20260603-001,SUP-06789,Aramex Middle East,Automotive Parts,Automotive,Middle East,2,4,2,delayed,1047,0,none,Sandstorm,Normal operations,0.2,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-002,SUP-08765,DHL Express,Chemical Compounds,Chemical,Europe,2,2,0,delivered,621,0,none,Normal,Normal operations,0.0,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-003,SUP-22222,Maersk Shipping,Electronic Components,Electronics,Europe,3,9,6,failed,508,508,total_loss,Snow Storm,Road blockage due to accident,0.9,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-004,SUP-22222,Maersk Shipping,Automotive Parts,Automotive,Europe,4,9,5,delayed,849,0,none,Normal,Driver strike,0.5,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-005,SUP-11111,UPS North America,Textile Materials,Fashion,North America,7,11,4,delayed,966,80,minor_damage,Hurricane Warning,Driver strike,0.7,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-006,SUP-08765,DHL Express,Food Products,FMCG,Europe,3,8,5,delayed,705,72,minor_damage,Snow Storm,Normal operations,0.8,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-007,SUP-11111,UPS North America,Food Products,FMCG,North America,4,6,2,delayed,1118,0,none,Normal,Driver strike,0.2,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-008,SUP-08765,DHL Express,Electronic Components,Electronics,Europe,2,2,0,delivered,441,0,none,Normal,Normal operations,0.0,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-009,SUP-06789,Aramex Middle East,Food Products,FMCG,Middle East,5,9,4,delayed,1434,0,none,Sandstorm,Normal operations,0.4,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-010,SUP-11111,UPS North America,Electronic Components,Electronics,North America,4,8,4,critical_delay,321,0,none,Normal,Customs clearance delay,0.4,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-011,SUP-06789,Aramex Middle East,Automotive Parts,Automotive,Middle East,5,7,2,delayed,978,0,none,Sandstorm,System outage at logistics provider,0.2,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-012,SUP-04567,FedEx Asia Pacific,Pharmaceutical Drugs,Healthcare,Asia Pacific,5,5,0,delivered,367,0,none,Normal,Normal operations,0.0,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-013,SUP-03321,Blue Dart India,Automotive Parts,Automotive,South Asia,4,8,4,delayed,903,0,none,Heavy Monsoon,Normal operations,0.4,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-014,SUP-11111,UPS North America,Raw Materials Steel,Industrial,North America,6,7,1,delayed,1220,0,none,Blizzard,Warehouse fire,0.1,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-015,SUP-11111,UPS North America,Automotive Parts,Automotive,North America,2,5,3,delayed,765,72,minor_damage,Hurricane Warning,System outage at logistics provider,0.6,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-016,SUP-08765,DHL Express,Food Products,FMCG,Europe,6,11,5,delayed,1337,0,none,Normal,Customs clearance delay,0.5,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-017,SUP-11111,UPS North America,Food Products,FMCG,North America,7,11,4,delayed,788,0,none,Hurricane Warning,Fuel shortage,0.4,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-018,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,3,9,6,failed,214,30,minor_damage,Normal,Fuel shortage,0.9,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-019,SUP-08765,DHL Express,Food Products,FMCG,Europe,4,9,5,critical_delay,590,0,none,Normal,Port congestion at major hub,0.5,2026-06-03T14:01:27.608633
+2026-06-03,ORD-20260603-020,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,5,11,6,failed,993,72,minor_damage,Normal,Vehicle breakdown,0.9,2026-06-03T14:01:27.608633

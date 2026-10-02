@@ -1,0 +1,21 @@
+date,order_id,supplier_id,supplier_name,product,category,region,expected_days,actual_days,delay_days,status,quantity,damaged_quantity,damage_type,weather_condition,disruption_event,risk_score,timestamp
+2026-06-24,ORD-20260624-001,SUP-06789,Aramex Middle East,Electronic Components,Electronics,Middle East,4,4,0,delivered,649,0,none,Normal,Normal operations,0.0,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-002,SUP-03321,Blue Dart India,Automotive Parts,Automotive,South Asia,6,6,0,delivered,1041,0,none,Normal,Normal operations,0.0,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-003,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,7,10,3,delayed,1034,0,none,Heavy Monsoon,System outage at logistics provider,0.3,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-004,SUP-06789,Aramex Middle East,Food Products,FMCG,Middle East,2,6,4,critical_delay,675,0,none,Sandstorm,Normal operations,0.4,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-005,SUP-04567,FedEx Asia Pacific,Raw Materials Steel,Industrial,Asia Pacific,4,6,2,delayed,1520,0,none,Normal,Customs clearance delay,0.2,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-006,SUP-06789,Aramex Middle East,Textile Materials,Fashion,Middle East,7,8,1,delayed,1212,0,none,Normal,Normal operations,0.1,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-007,SUP-03321,Blue Dart India,Food Products,FMCG,South Asia,3,6,3,delayed,597,0,none,Normal,Driver strike,0.3,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-008,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,4,4,0,delivered,294,0,none,Normal,Normal operations,0.0,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-009,SUP-06789,Aramex Middle East,Pharmaceutical Drugs,Healthcare,Middle East,2,3,1,delayed,190,0,none,Extreme Heat,Normal operations,0.1,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-010,SUP-08765,DHL Express,Food Products,FMCG,Europe,6,6,0,delivered,905,0,none,Normal,Normal operations,0.0,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-011,SUP-11111,UPS North America,Chemical Compounds,Chemical,North America,3,8,5,critical_delay,593,0,none,Hurricane Warning,Port congestion at major hub,0.5,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-012,SUP-08765,DHL Express,Chemical Compounds,Chemical,Europe,7,10,3,critical_delay,609,0,none,Snow Storm,System outage at logistics provider,0.3,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-013,SUP-22222,Maersk Shipping,Textile Materials,Fashion,Europe,4,6,2,delayed,1379,0,none,Fog Alert,Port congestion at major hub,0.2,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-014,SUP-04567,FedEx Asia Pacific,Textile Materials,Fashion,Asia Pacific,4,9,5,critical_delay,2125,0,none,Normal,Customs clearance delay,0.5,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-015,SUP-08765,DHL Express,Textile Materials,Fashion,Europe,6,6,0,delivered,1746,0,none,Normal,Normal operations,0.0,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-016,SUP-22222,Maersk Shipping,Food Products,FMCG,Europe,4,8,4,critical_delay,797,107,minor_damage,Fog Alert,Normal operations,0.7,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-017,SUP-08765,DHL Express,Textile Materials,Fashion,Europe,4,8,4,delayed,985,0,none,Normal,Fuel shortage,0.4,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-018,SUP-04567,FedEx Asia Pacific,Chemical Compounds,Chemical,Asia Pacific,2,5,3,critical_delay,733,0,none,Normal,Port congestion at major hub,0.3,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-019,SUP-10234,Tata Logistics,Textile Materials,Fashion,South Asia,3,6,3,critical_delay,847,0,none,Normal,Normal operations,0.3,2026-06-24T16:25:03.381607
+2026-06-24,ORD-20260624-020,SUP-22222,Maersk Shipping,Electronic Components,Electronics,Europe,6,9,3,delayed,476,0,none,Normal,Fuel shortage,0.3,2026-06-24T16:25:03.381607
